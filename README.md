@@ -1,3 +1,3 @@
 Hi i am Ivan 👋
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=github.com/ismetskoy&color=green)
