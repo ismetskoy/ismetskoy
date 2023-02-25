@@ -1,5 +1,11 @@
-<h2 align="left">Hi i am Ivan <a href="https://xataa.online" target="_blank">XaTa</a> 
+<h2 align="left">Hi i am Ivan  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
+
+<ul>
+ <li><a href="https://xataa.online" target="_blank">XaTa</a></li>
+ <li>Второй пункт</li>
+ <li>Третий пункт</li>
+</ul>
 
 ![](https://komarev.com/ghpvc/?username=ismetskoy&color=green)
 
