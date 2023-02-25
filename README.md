@@ -1,5 +1,3 @@
-Hi i am Ivan 👋
-
 <h1 align="center">Hi i am Ivan <a href="https://xataa.online" target="_blank">XaTa</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
