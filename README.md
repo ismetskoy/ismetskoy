@@ -3,7 +3,7 @@
 
 <ul>
    <li>🏢 I work at Alfa-Bank as an engineer</li>
-   <li>🚀 About projects : <a href="https://xataa.online" target="_blank">XaTa</a></li>
+   <li>🚀 About projects : <a href="https://xataa.ru" target="_blank">XaTa</a></li>
 </ul>
 
 
